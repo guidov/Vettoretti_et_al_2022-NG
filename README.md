@@ -3,8 +3,7 @@ Data repository for "Millennial-Scale Ice Age Climate Oscillations Controlled by
 
 ## Purpose 
 
-The purpose of this repo is to provide the scripts/code used to produce to the simulation and real data results in the following manuscript. Data gene
-rated from this study can be download at:
+The purpose of this repo is to provide the scripts/code used to produce to the plots and the simple model results in the following manuscript. Data generated from this study can be download at: (Link will be provided soon)
 
 ## Citation
 
