@@ -1,4 +1,4 @@
-# DO_CO2_paper
+# Vettoretti_et_al_2021 (Under review in Nature Geocience)
 Data repository for "Millennial-Scale Ice Age Climate Oscillations Controlled by Atmospheric CO2"
 
 ## Purpose 
