@@ -7,6 +7,6 @@ The purpose of this repo is to provide the scripts/code used to produce to the p
 
 ## Citation
 
-Guido Vettoretti, Peter Ditlevsen, Markus Jochum, and Sune Olander Rasmussen (2021): Millennial-Scale Ice Age Climate Oscillations Controlled by Atmos
+Guido Vettoretti, Peter Ditlevsen, Markus Jochum, and Sune Olander Rasmussen (2022): Millennial-Scale Ice Age Climate Oscillations Controlled by Atmos
 pheric CO2, in revision, Nat. Geo.
 
