@@ -13,5 +13,5 @@ https://mybinder.org/v2/gh/guidov/scdom/main?filepath=index.ipynb
 
 ## Citation
 
-Vettoretti, G., Ditlevsen, P., Jochum, M. and Rasmussen, S.O. (2022): Atmospheric CO2 Control of Spontaneous Millennial-Scale Ice Age Climate Oscillations, Nature Geoscience
+Vettoretti, G., Ditlevsen, P., Jochum, M. and Rasmussen, S.O. (2022): Atmospheric CO2 Control of Spontaneous Millennial-Scale Ice Age Climate Oscillations, Nature Geoscience https://doi.org/10.1038/s41561-022-00920-7
 
