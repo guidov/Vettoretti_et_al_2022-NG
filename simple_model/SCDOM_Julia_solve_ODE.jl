@@ -17,9 +17,9 @@ p = (-9, 12, 0.625, 0.9, 1.2);
 q₀, q₁, b₀, τ, γ = p; 
 tspan = (0.0,60.0);
 
-# use Euler-Maruyama (EM)
+# only ODE, don't need EM solver
 sm_prob = ODEProblem(sm, u0, tspan, p);
-sm_sol = solve(sm_prob, EM(), dt = 1e-1, adaptive=false);
+sm_sol = solve(sm_prob, dt = 1e-1, adaptive=false);
 
 y_sm = [u[1] for u in sm_sol.u];
 x_sm = [u[2] for u in sm_sol.u];
